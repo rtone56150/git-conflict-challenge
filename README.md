@@ -1,2 +1,2 @@
 # git-conflict-challenge
-Modified with love with Github
+Modified with love with Github une deuxième fois
